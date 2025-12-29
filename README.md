@@ -39,14 +39,12 @@ The script installs a small set of convenience aliases and shell functions to sp
    git clone https://github.com/hazypugfluff/my-one-script-setup.git
 2. Run the script:
    sudo bash setupall.sh
-   # or make executable then run:
-   # sudo ./setupall.sh
+or make executable then run:
+   sudo ./setupall.sh
 
 ## Customization
 - Edit the package list and flags inside the script to match your OS and preferences.
 - Change the Neovim and Zsh configuration files in the repo to adjust dotfiles and settings.
-
-
 
 ## Contributing
 Contributions, improvements, and bug reports are welcome. Please open an issue or submit a PR with a brief description of changes.
