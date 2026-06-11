@@ -19,7 +19,7 @@ PACKAGES=(
     tar
     hyfetch
     build-essential
-    python3.13-venv
+    python3venv
 
 )
 
